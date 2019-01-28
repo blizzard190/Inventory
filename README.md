@@ -1,7 +1,8 @@
 # Inventory System
+Dit was orgineel voor school.
 [prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Ik heb gekozen om een Inventory system te maken, ik heb deze keuzen gemaakt omdat ik het interessant vond en omdat ik een UI developer wil worden. Ook heb ik gekeken naar wat een inventory systeem nodig heeft, ik heb gevonden dat ze Interfaces gebruikt en delegates. Ik ben hier heel geïnteresseerd in en ik wil er me zelf er verder in verdiepen.
+Ik heb gekozen om een Inventory system te maken, ik heb deze keuzen gemaakt omdat ik het interessant vond en omdat ik een UI developer wil worden. Ook heb ik gekeken naar wat een inventory systeem nodig heeft, ik heb gevonden dat ze Interfaces gebruikt en delegates. Ik ben hier heel geÃ¯nteresseerd in en ik wil er me zelf er verder in verdiepen.
 
 ## Software Anaylse
 Ik heb voor dit project gekozen om Unity C# te gebruiken, ik heb deze keuzen gemaakt omdat ik het meeste ervaring heb met Unity en ik het later wil gaan gebruiken met werk. Ook heb ik gekeken naar de anderen opties waarvan JS de meeste logische keuzen was, omdat ik daar al wat ervaring in heb. Ik heb toch gekozen om Unity te gebruiken omdat ik veel meer keuzen en mogelijkheid zie in Unity C#.
